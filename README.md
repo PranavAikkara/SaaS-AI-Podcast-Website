@@ -1,5 +1,3 @@
-Here's a comprehensive README file for your AI SaaS podcast website project:
-
 ---
 
 # AI SaaS Podcast Website
@@ -54,7 +52,7 @@ This is an AI-powered SaaS podcast website built using Next.js, Convex, Clerk fo
 
 3. Set up environment variables:
    - Create a `.env.local` file in the root directory.
-   - Add your Clerk API keys, Convex project keys, and OpenAI API keys in the `.env.local` file.
+   - Add Clerk API keys, Convex project keys, and OpenAI API keys in the `.env.local` file.
 
     ```env
     NEXT_PUBLIC_CLERK_FRONTEND_API=<your-clerk-frontend-api>
